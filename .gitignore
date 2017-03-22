@@ -1,4 +1,6 @@
 *.zip
+*.dat
+.idea
 # Gradle
 # ------
 .gradle
@@ -15,6 +17,7 @@ gradle-app.setting
 *.settings
 bin/
 target/
+project/
 
 # Vim
 # ---
